@@ -1,0 +1,50 @@
+# groundlevel-mvp · robots.txt
+# All AI crawlers welcome.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: YandexBot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: MistralAI-User
+Allow: /
+
+Sitemap: https://sjgant80-hub.github.io/groundlevel-mvp/sitemap.xml
